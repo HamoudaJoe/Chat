@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "389854950854",
+    "firebase_url": "https://pushnotifications-1220.firebaseio.com",
+    "project_id": "pushnotifications-1220"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389854950854:android:49045c8946659612",
+        "android_client_info": {
+          "package_name": "com.firebase.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389854950854-qafoqgfag8bnja2ib7hva07o727v5g5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2yVc3RKDYWMEwNb_y2FG1p2h2eVn5vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
